@@ -1,0 +1,83 @@
+table{
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color:transparent;
+}
+
+body {
+    background-image: url(../img/horoscope_bkgr\ –\ копія.jpg);
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+th {
+    color: #00ccff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+
+h2 {
+    margin: 0;
+}
+
+h4 u {
+    color: #fff;
+    padding: 3px 6px;
+    border-radius: 5px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+    border: 2px solid white;
+    height: 50px;
+    text-align: left;
+}
+
+td img {
+    width: 100px;
+    height: 60px;
+    border-radius: 5px;
+    border: 1px solid #555;
+}
+
+.terezi {
+    text-align: left;
+    padding: 20px;
+}
+
+.terezi img {
+    display: block;
+    margin: 0 auto 10px;
+    width: 300px;
+    height: auto;
+    float: left;
+    margin: 2px 10px 5px 1px;
+}
+
+.terezi p {
+    line-height: 1.6;
+}
+
+ul {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+em {
+    display: block;
+    margin-top: 10px;
+    color: #00ccff;
+}
+p ul{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
